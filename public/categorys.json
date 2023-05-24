@@ -1,0 +1,72 @@
+[
+  {
+    "sellerName": "Toy Seller 1",
+    "name": "Table Piano",
+    "subCategory": "Music Making Toy",
+    "price": 49.99,
+    "availableQuantity": 2,
+    "_id": "1",
+    "rating": 4.8,
+    "description": "The drum set toy allows children to unleash their inner drummer and create rhythmic beats.",
+    "imgUrl": "https://i.ibb.co/DWSskmt/1.webp"
+  },
+  {
+    "sellerName": "Toy Seller 2",
+    "name": "Guiter Toy",
+    "subCategory": "Music Making Toy",
+    "price": 29.99,
+    "availableQuantity": 5,
+    "_id": "2",
+    "rating": 4.6,
+    "description": "The Guiter toy introduces kids to basic music concepts while having fun playing colorful keys.",
+    "imgUrl": "https://i.ibb.co/LpgJQDK/2.webp"
+  },
+
+
+{
+    "sellerName": "Toy Seller 1",
+    "name": "Singing and Dancing Bear",
+    "subCategory": "Singing and Dancing Toy",
+    "price": 29.99,
+    "availableQuantity": 5,
+    "_id": "1",
+    "rating": 4.2,
+    "description": "The singing and dancing bear toy brings joy and entertainment with its catchy tunes and dance moves.",
+    "imgUrl": "https://i.ibb.co/vdYJFNd/3.jpg"
+  },
+  {
+    "sellerName": "Toy Seller 2",
+    "name": "Musical Penguin",
+    "subCategory": "Singing and Dancing Toy",
+    "price": 19.99,
+    "availableQuantity": 8,
+    "_id": "2",
+    "rating": 4.5,
+    "description": "The musical penguin toy sings and dances, capturing children's imagination and creating a delightful playtime experience.",
+    "imgUrl": "https://i.ibb.co/1dDywd4/4.jpg"
+  },
+
+  
+{
+    "sellerName": "Toy Seller 1",
+    "name": "Classic Music Box",
+    "subCategory": "Music Box",
+    "price": 39.99,
+    "availableQuantity": 3,
+    "_id": "1",
+    "rating": 4.7,
+    "description": "The classic music box plays beautiful melodies and features an intricate design that delights both young and old.",
+    "imgUrl": "https://i.ibb.co/Yh2BT0J/5.jpg"
+  },
+  {
+    "sellerName": "Toy Seller 2",
+    "name": "Animal Carousel Music Box",
+    "subCategory": "Music Box",
+    "price": 24.99,
+    "availableQuantity": 6,
+    "_id": "2",
+    "rating": 4.4,
+    "description": "The animal carousel music box mesmerizes with its rotating figures and enchanting tunes, creating a magical experience.",
+    "imgUrl": "https://i.ibb.co/dbSc6MJ/6.jpg"
+  },
+]
